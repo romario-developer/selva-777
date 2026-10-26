@@ -3,7 +3,7 @@
 Protótipo jogável de caça-níquel feito com **PixiJS 8, React 18 e TypeScript**.
 Créditos fictícios, sem dinheiro real. Projeto de portfólio de **Romário Alves**.
 
-**Jogue agora:** https://romario-developer.github.io/selva-777/
+**Jogue agora:** https://selva-777.romariotecla.workers.dev
 
 ## Como rodar
 
